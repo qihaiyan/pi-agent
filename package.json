@@ -11,15 +11,15 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@mariozechner/pi-agent-core": "^0.65.2",
-    "@mariozechner/pi-ai": "^0.65.2",
-    "@mariozechner/pi-tui": "^0.65.2"
+    "@mariozechner/pi-agent-core": "^0.66.1",
+    "@mariozechner/pi-ai": "^0.66.1",
+    "@mariozechner/pi-tui": "^0.66.1"
   },
   "devDependencies": {
-    "@types/node": "^25.5.2",
+    "@types/node": "^25.6.0",
     "fast-check": "^4.6.0",
     "typescript": "^6.0.2",
-    "vite": "^8.0.4",
-    "vitest": "^4.1.2"
+    "vite": "^8.0.8",
+    "vitest": "^4.1.4"
   }
 }
