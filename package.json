@@ -11,14 +11,14 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@mariozechner/pi-agent-core": "^0.66.1",
-    "@mariozechner/pi-ai": "^0.66.1",
-    "@mariozechner/pi-tui": "^0.66.1"
+    "@mariozechner/pi-agent-core": "^0.67.68",
+    "@mariozechner/pi-ai": "^0.67.68",
+    "@mariozechner/pi-tui": "^0.67.68"
   },
   "devDependencies": {
     "@types/node": "^25.6.0",
-    "fast-check": "^4.6.0",
-    "typescript": "^6.0.2",
+    "fast-check": "^4.7.0",
+    "typescript": "^6.0.3",
     "vite": "^8.0.8",
     "vitest": "^4.1.4"
   }
